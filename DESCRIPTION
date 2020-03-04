@@ -1,0 +1,16 @@
+Package: logconridge
+Type: Package
+Title: Log-Convex Ridge Estimation in R
+Version: 0.1.0
+Author: Christof Str\"ahl
+Maintainer: Christof Str\"ahl <christof.straehl@stat.unibe.ch>
+Description: Shpe Constraint Ridge Estimation
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: ldder, logcondens
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2019-05-28 16:15:27 UTC; Christof
